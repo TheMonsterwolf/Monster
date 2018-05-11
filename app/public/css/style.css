@@ -10,6 +10,7 @@ table.responsive-table td:empty:before {
   transform: translateY(+8%);
 }
 
+<<<<<<< HEAD
 td>img {
   display: flex;
 }
@@ -308,3 +309,8 @@ footer.page-footer {
   padding-top: 0;
   background-color: #3f51b5;
 }
+=======
+td > img {
+	display: flex;
+}
+>>>>>>> parent of aee8043... view: add soundiiz tab to convert playlists to deezer
